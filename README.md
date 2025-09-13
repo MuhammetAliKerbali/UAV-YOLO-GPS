@@ -20,7 +20,7 @@ It was developed as a proof-of-concept for UAV research.
 ## 📂 Project Structure
 ```
 .
-├── main.py        # Main script (YOLO inference + GPS estimation)
+├── UAV-YOLO-GPS.py        # Main script (YOLO inference + GPS estimation)
 └── README.md      # Project description
 ```
 
